@@ -1,1 +1,5 @@
-<h1>Trabajo Práctico Integrador Front-End Desarrollador Full Stack Java en Codo a Codo 4.0 Comisión 23049 Año 2023<h1>
+<h1>Trabajo Práctico Integrador Front-End</h1>
+<h2>Desarrollador Full Stack Java - Codo a Codo 4.0 </h2>
+  <h3>Comisión 23049 Año 2023</h3>
+  <img src="/IMG/codo-a-codo.jpg">
+  
